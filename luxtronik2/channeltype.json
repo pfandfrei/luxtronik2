@@ -1,0 +1,11 @@
+{
+    "TEMPERATURE" : { "valtype" : "4", "unit" : "°C" },
+    "OUTPUT" : { "valtype" : "2", "unit" : "" },
+    "INPUT" : { "valtype" : "2", "unit" : "" },
+    "ANALOG" : { "valtype" : "4", "unit" : "mV" },
+    "COUNTER" : { "valtype" : "16", "unit" : "" },
+    "TIME" : { "valtype" : "16", "unit" : "" },
+    "WMZ" : { "valtype" : "4", "unit" : "kWh" },
+    "ERROR" : { "valtype" : "20", "unit" : "" },
+    "MISC" : { "valtype" : "20", "unit" : "" }
+}
